@@ -199,6 +199,10 @@ h1, h2, h3,h4 ,h5, h6 {
   color: #777;
   margin-right: .5rem;
 }
+#main-nav .social i:hover {
+  color: var(--primary-color);
+  margin-right: .5rem;
+}
 
 /* Showcase */
 #showcase {
